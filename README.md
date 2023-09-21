@@ -4,9 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tom_araujo03/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-araujo-8828941a4/)
 
-![Everton's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonSPTECH&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonSPTECH&layout=compact)](https://github.com/EvertonSPTECH/github-readme-stats)
+![Everton's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonSPTECH&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonSPTECH&layout=compact)](https://github.com/EvertonSPTECH/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
 
